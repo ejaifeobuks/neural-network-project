@@ -165,7 +165,6 @@ This project is for educational purposes. The MNIST dataset is publicly availabl
 ## 📧 Contact
 
 **Author**: Ogheneobukome Ejaife
-**Course**: CS 215-80, Fall 2025
 
 ---
 
